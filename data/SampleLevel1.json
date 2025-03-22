@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "id": 115988044,
+    "name": "Fade",
+    "author": "fluuf",
+    "creators": ["fluuf"]
+    "verifier": "fluuf",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "percentToQualify": 100,
+    "password": "Copyable",
     "records": [
         {
             "user": "Sample_Victor_1",
