@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "LowTaperDash",
+            "link": "https://youtu.be/nGz6iiCrb1I",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
