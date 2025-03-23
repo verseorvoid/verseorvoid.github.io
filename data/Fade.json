@@ -5,7 +5,7 @@
     "creators": ["fluuf"],
     "verifier": "fluuf",
     "verification": "https://youtu.be/EdJoIMhP-Vk",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "password": "Copyable",
     "records": [
         {
