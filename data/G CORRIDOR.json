@@ -5,7 +5,7 @@
     "creators": ["fluuf"],
     "verifier": "fluuf",
     "verification": "https://youtu.be/zPjU_LTiB8Y",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
          {
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/nGz6iiCrb1I",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Leeox",
+            "link": "https://youtu.be/DPXXNlqHFCY",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
