@@ -8,7 +8,7 @@
 
 Can I use the List template?
 
-- Sure. Credits to the shitty list are embedded onto this template so keep that in.
+- Sure. Credits to the list are embedded onto this template so keep that in.
 
 The website isn't loading! What can I do?
 
