@@ -25,6 +25,12 @@
             "link": "",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "GDGamer",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
