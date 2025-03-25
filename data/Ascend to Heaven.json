@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
-        
+        {
+            "user": "LowTaperDash",
+            "link": "https://youtu.be/aHtq7GPKC8M",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
