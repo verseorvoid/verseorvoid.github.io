@@ -1,0 +1,18 @@
+{
+    "id": "116682731",
+    "name": "congrespikeless",
+    "author": "codex",
+    "creators": ["codex"],
+    "verifier": "codex",
+    "verification": "https://youtu.be/45IPzoBBrL0",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+         {
+            "user": "fluuf",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
