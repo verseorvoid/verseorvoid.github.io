@@ -5,9 +5,14 @@
     "creators": ["Zxentirix"],
     "verifier": "Zxentirix",
     "verification": "https://youtu.be/rRKIVQAGunM?si=Pr-Xh9HMiLLVcVOv",
-    "percentToQualify": 45,
+    "percentToQualify": "45",
     "password": "Copyable",
     "records": [
-         
+          {
+            "user": "dignity",
+            "link": "",
+            "percent": 92,
+            "hz": 360
+        },
     ]
 }
