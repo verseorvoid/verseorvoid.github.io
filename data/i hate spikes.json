@@ -1,0 +1,18 @@
+{
+    "id": "116682947",
+    "name": "4 Colors",
+    "author": "LowTaperDash",
+    "creators": ["LowTaperDash"],
+    "verifier": "LowTaperDash",
+    "verification": "https://youtu.be/m6G3Y3udL1g",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "fluuf",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
