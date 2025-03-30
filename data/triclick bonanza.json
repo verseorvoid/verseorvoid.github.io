@@ -1,0 +1,18 @@
+{
+    "id": "116716486",
+    "name": "triclick bonanza",
+    "author": "videogamermega",
+    "creators": ["videogamermega"],
+    "verifier": "videogamermega",
+    "verification": "https://www.youtube.com/watch?v=mwPpf_e1b6E",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+         {
+            "user": "fluuf",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
