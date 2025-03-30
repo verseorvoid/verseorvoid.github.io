@@ -1,0 +1,18 @@
+{
+    "id": "116684947",
+    "name": "im so devious",
+    "author": "VoidGames",
+    "creators": ["VoidGames"],
+    "verifier": "VoidGames",
+    "verification": "https://youtu.be/CRXm-iBO_20?si=vhENQnDdBQV0jwW4",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+         {
+            "user": "fluuf",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
