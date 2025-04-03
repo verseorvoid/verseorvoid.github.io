@@ -8,6 +8,17 @@
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
-        
+        {
+            "user": "fluuf",
+            "link": "",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "videogamermega",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
