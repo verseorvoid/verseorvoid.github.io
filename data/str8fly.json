@@ -5,7 +5,7 @@
     "creators": ["codex"],
     "verifier": "codex",
     "verification": "https://youtu.be/j13UvOeb060",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "password": "Copyable",
     "records": [
         {
