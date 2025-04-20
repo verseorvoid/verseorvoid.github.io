@@ -13,6 +13,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "videogamermega",
+            "link": "https://www.youtube.com/watch?v=aVOt_9wzEs4",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
