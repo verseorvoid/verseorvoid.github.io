@@ -9,16 +9,16 @@
     "password": "Copyable",
     "records": [
         {
-            "user": "ggdotlol",
-            "link": "",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "dignity",
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ggdotlol",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
