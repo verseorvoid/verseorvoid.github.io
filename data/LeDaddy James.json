@@ -8,11 +8,17 @@
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
-{
+        {
             "user": "videogamermega",
             "link": "",
             "percent": 100,
             "hz": 120
-}
+        },
+        {
+            "user": "Codex",
+            "link": "https://youtu.be/xkrbjkJerMA",
+            "percent": 100,
+            "hz": 60
+        } 
     ]
 }
