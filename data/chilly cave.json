@@ -55,6 +55,12 @@
             "link": "",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Codex",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
