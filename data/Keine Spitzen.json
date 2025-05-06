@@ -31,6 +31,12 @@
             "link": "",
             "percent": 100,
             "hz": 360
+        },
+          {
+            "user": "Codex",
+            "link": "https://youtu.be/V1juVGYMurE",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
